@@ -9,6 +9,5 @@ jobs:
   # You may pin to the exact commit or the version.
   # uses: ybyzek/cp-all-in-one-action@58cb2014706e386a7207356586a4fd64b6a9f7ab
         uses: ybyzek/cp-all-in-one-action@v0.2.1
-      - name: To verify version
-        run: kafka-topics --version
+
                 
